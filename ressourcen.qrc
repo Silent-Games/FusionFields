@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/Database">
+        <file>Database/databaseFF</file>
+    </qresource>
+    <qresource prefix="/Sounds">
+        <file>Media/pop.mp3</file>
+    </qresource>
+    <qresource prefix="/Items">
+        <file>Images/locked.png</file>
+        <file>Images/unlocked.png</file>
+        <file>Images/decreaseitem.png</file>
+        <file>Images/randomitem.png</file>
+        <file>Images/swapitem.png</file>
+        <file>Images/increaseitem.png</file>
+        <file>Images/nexttileitem.png</file>
+    </qresource>
+    <qresource prefix="/Images">
+        <file>Images/appicon.png</file>
+        <file>Images/play.png</file>
+        <file>Images/menu.png</file>
+        <file>Images/restart.png</file>
+        <file>Images/cancel.png</file>
+        <file>Images/check.png</file>
+        <file>Images/fusionpoints.png</file>
+        <file>Images/object.png</file>
+        <file>Images/arrow.png</file>
+        <file>Images/soundon.png</file>
+        <file>Images/soundoff.png</file>
+        <file>Images/challenges.png</file>
+        <file>Images/highscore.png</file>
+        <file>Images/info.png</file>
+        <file>Images/item.png</file>
+    </qresource>
+</RCC>
